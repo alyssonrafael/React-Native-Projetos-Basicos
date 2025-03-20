@@ -1,4 +1,3 @@
-
 # Projetos Básicos em Desenvolvimento REACT-NATIVE
 
 Este repositório contém uma coleção de projetos básicos que desenvolvi para explorar e praticar diferentes tecnologias e conceitos de programação. Cada projeto é independente e serve como um ponto de partida para futuros desenvolvimentos mais complexos.
@@ -11,6 +10,12 @@ Este repositório contém uma coleção de projetos básicos que desenvolvi para
 - Tecnologias: React Native, Async Storage, Expo
 - <img src="./gerador-de-senhas/image/README/1730396091160.png" alt="home gerador de senhas" width="100">
 - [Readme Gerador de senhas](./gerador-de-senhas/README.md "gerador de senhas")
+2. Calculadora
+
+- Descrição: Um aplicativo em React Native que é uma calculadora Comum com funções básicas de soma, subtração, divisão, multiplicação e porcentagem.
+- Tecnologias: React Native,Expo
+- <img src="./calculadora/assets//Readme/calculadora.jpg" alt="calculadora" width="100">
+- [Readme calculadora](./calculadora/README.md "Calculadora")
 
 ## 🚀 Objetivo
 

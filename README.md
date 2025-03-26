@@ -16,6 +16,12 @@ Este repositório contém uma coleção de projetos básicos que desenvolvi para
 - Tecnologias: React Native,Expo
 - <img src="./calculadora/assets//Readme/calculadora.jpg" alt="calculadora" width="100">
 - [Readme calculadora](./calculadora/README.md "Calculadora")
+3. Tela Login
+
+- Descrição: Um aplicativo em React Native que mostra uma tela de login estática
+- Tecnologias: React Native,Expo
+- <img src="./tela-login/assets/Readme/tela-login.jpg" alt="tela-login" width="100">
+- [Readme tela-login](./tela-login/README.md "Tela login")
 
 ## 🚀 Objetivo
 
